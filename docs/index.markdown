@@ -2,6 +2,9 @@
 layout: home
 ---
 
+**_As of May 28, 2024, Pessimism has been deprecated and is no longer being actively maintained_**
+
+
 Detect real-time threats on Op-stack compatible chains
 
 ## Contents

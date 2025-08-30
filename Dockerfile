@@ -10,7 +10,7 @@ COPY . .
 RUN make build-app
 
 # Use alpine to run app
-FROM alpine:3.16
+FROM alpine:3.19
 WORKDIR /app
 COPY --from=builder /app/bin/pessimism .
 
